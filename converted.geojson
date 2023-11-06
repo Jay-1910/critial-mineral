@@ -1,0 +1,526 @@
+{
+  "geojson-marker": {
+    "type": "geojson",
+    "data": {
+      "type": "Feature",
+      "features": [
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.6027157,
+              -34.91970322
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "17 Kintore Avenue",
+            "Station": "Artlab"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.5986491,
+              -34.9297032
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "241-259 Victoria Square",
+            "Capacity (MV)": 0.44,
+            "Station": "Sir Samuel Way Building"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              137.811791,
+              -32.51077551
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "2-22 Jeff Street",
+            "Station": "Port Augusta Prison"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              140.4536383,
+              -37.698336
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "10-12 Randall Street",
+            "Station": "Tantanoola Primary School"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              139.7386262,
+              -36.3371875
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "5275",
+            "Capacity (MV)": 0.01,
+            "Station": "Cantara Homestead"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              139.2667071,
+              -35.74998666
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "5264",
+            "Station": "Noonameena"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              134.7692561,
+              -29.01942607
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "1851 Potch Gully Road",
+            "Capacity (MV)": 4,
+            "Station": "Coober Pedy Remote Power"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.4910143,
+              -35.10965502
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "7 Refinery Road",
+            "Capacity (MV)": 20.7,
+            "Station": "Lonsdale"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.4914666,
+              -35.11038181
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "5 Refinery Road",
+            "Capacity (MV)": 58,
+            "Station": "Port Stanvac"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              140.4155658,
+              -37.66453687
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "16 Jennings Road",
+            "Capacity (MV)": 63,
+            "Station": "Snuggery"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              140.7364789,
+              -36.32816121
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "492 Meatworks Road",
+            "Capacity (MV)": 1,
+            "Station": "Tatiara Bordertown Plant"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.6006241,
+              -34.93090042
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "16 Kent Street",
+            "Capacity (MV)": 0.05,
+            "Station": "Adelaide City Watchhouse"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.5988741,
+              -34.91950596
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "6026 King William Road",
+            "Station": "Adelaide Festival Centre"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.5987852,
+              -34.92109208
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "303 North Terrace",
+            "Capacity (MV)": 0.28,
+            "Station": "Adelaide Parliament House"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.5904268,
+              -34.92472816
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "208 Currie Street",
+            "Station": "Adelaide Remand Centre"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.6048768,
+              -34.92862543
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "99 Wakefield Street",
+            "Station": "Adelaide Station"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.5332299,
+              -34.8833781
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "50 Woodville Road",
+            "Station": "Basil Hetzel Complex"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              140.6037265,
+              -34.2857589
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "1 Gilbert Street",
+            "Station": "Berri Police Station"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              139.7578613,
+              -34.05686488
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "42 Boden Road",
+            "Station": "Cadell Training Centre"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              136.8966664,
+              -35.22645656
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "5577",
+            "Station": "Innes National Park"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.6164437,
+              -33.21202815
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "92 South Terrace",
+            "Station": "Jamestown Hospital"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              140.2461022,
+              -37.33727779
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "3170 Clay Wells Road",
+            "Station": "Kangaroo Inn Area School"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.3008244,
+              -33.17765891
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "26 Mill Street",
+            "Station": "Laura Hospital Inc"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.6879436,
+              -34.90673372
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "17 Lewis Walk",
+            "Station": "Magill Training Centre"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              140.6847274,
+              -37.85840291
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "1 Kieselbach Road",
+            "Station": "Mount Gambier Prison"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.5523854,
+              -34.94318948
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "285 Richmond Road",
+            "Capacity (MV)": 0.2,
+            "Station": "Netley Commercial Park"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.5531355,
+              -34.94631172
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "242 Marion Road",
+            "Capacity (MV)": 0.09,
+            "Station": "Netley Police Complex"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.8308934,
+              -32.98074236
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "36 Hurlstone Street",
+            "Station": "Peterborough Hospital"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.6381908,
+              -34.96944485
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "100 Hartley Grove",
+            "Station": "Plant Research Centre"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.5430216,
+              -34.87983076
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "21a Belmore Terrace",
+            "Station": "Pregnancy Advisory Centre"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.5332299,
+              -34.8833781
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "50 Woodville Road",
+            "Station": "Queen Elizabeth Hospital"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.5892659,
+              -34.99160875
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "216 Daws Road",
+            "Station": "Repatriation Hospital"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.6085741,
+              -34.92070605
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "283 North Terrace",
+            "Station": "Royal Adelaide Hospital"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.6032241,
+              -34.92055599
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "561 North Terrace",
+            "Station": "South Australian Museum"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              140.7368386,
+              -36.32734578
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "490 Meatworks Road",
+            "Capacity (MV)": 0.48,
+            "Station": "Tatiara Meat Company"
+          }
+        },
+        {
+          "type": "Feature",
+          "geometry": {
+            "coordinates": [
+              138.8761908,
+              -34.95299503
+            ],
+            "type": "Point"
+          },
+          "properties": {
+            "Address": "7 Nairne Road",
+            "Station": "Woodside Police Station"
+          }
+        }
+      ]
+    }
+  }
+}

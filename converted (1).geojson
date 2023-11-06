@@ -1,0 +1,564 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Artlab",
+        "Marker": "Diesel Generator",
+        "Address": "17 Kintore Avenue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.6027157,
+          -34.91970322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Sir Samuel Way Building",
+        "Marker": "Diesel Generator",
+        "Address": "241-259 Victoria Square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5986491,
+          -34.9297032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Port Augusta Prison",
+        "Marker": "Diesel Generator",
+        "Address": "2-22 Jeff Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.811791,
+          -32.51077551
+        ]
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Tantanoola Primary School",
+        "Marker": "Diesel Generator",
+        "Address": "10-12 Randall Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.4536383,
+          -37.698336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Cantara Homestead",
+        "Marker": "Diesel Generator",
+        "Address": "5275",
+        "Capacity (MV)": 0.01
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7386262,
+          -36.3371875
+        ]
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Noonameena",
+        "Marker": "Diesel Generator",
+        "Address": "5264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2667071,
+          -35.74998666
+        ]
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Coober Pedy Remote Power",
+        "Marker": "Diesel Generator",
+        "Address": "1851 Potch Gully Road",
+        "Capacity (MV)": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.7692561,
+          -29.01942607
+        ]
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Lonsdale",
+        "Marker": "Diesel Generator",
+        "Address": "7 Refinery Road",
+        "Capacity (MV)": 20.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.4910143,
+          -35.10965502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Port Stanvac",
+        "Marker": "Diesel Generator",
+        "Address": "5 Refinery Road",
+        "Capacity (MV)": 58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.4914666,
+          -35.11038181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Snuggery",
+        "Marker": "Diesel Generator",
+        "Address": "16 Jennings Road",
+        "Capacity (MV)": 63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.4155658,
+          -37.66453687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Tatiara Bordertown Plant",
+        "Marker": "Diesel Generator",
+        "Address": "492 Meatworks Road",
+        "Capacity (MV)": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7364789,
+          -36.32816121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Adelaide City Watchhouse",
+        "Marker": "Diesel Generator",
+        "Address": "16 Kent Street",
+        "Capacity (MV)": 0.05
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.6006241,
+          -34.93090042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Adelaide Festival Centre",
+        "Marker": "Diesel Generator",
+        "Address": "6026 King William Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5988741,
+          -34.91950596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Adelaide Parliament House",
+        "Marker": "Diesel Generator",
+        "Address": "303 North Terrace",
+        "Capacity (MV)": 0.28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5987852,
+          -34.92109208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Adelaide Remand Centre",
+        "Marker": "Diesel Generator",
+        "Address": "208 Currie Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5904268,
+          -34.92472816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Adelaide Station",
+        "Marker": "Diesel Generator",
+        "Address": "99 Wakefield Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.6048768,
+          -34.92862543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Basil Hetzel Complex",
+        "Marker": "Diesel Generator",
+        "Address": "50 Woodville Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5332299,
+          -34.8833781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Berri Police Station",
+        "Marker": "Diesel Generator",
+        "Address": "1 Gilbert Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6037265,
+          -34.2857589
+        ]
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Cadell Training Centre",
+        "Marker": "Diesel Generator",
+        "Address": "42 Boden Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7578613,
+          -34.05686488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Innes National Park",
+        "Marker": "Diesel Generator",
+        "Address": "5577"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8966664,
+          -35.22645656
+        ]
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Jamestown Hospital",
+        "Marker": "Diesel Generator",
+        "Address": "92 South Terrace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.6164437,
+          -33.21202815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Kangaroo Inn Area School",
+        "Marker": "Diesel Generator",
+        "Address": "3170 Clay Wells Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.2461022,
+          -37.33727779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Laura Hospital Inc",
+        "Marker": "Diesel Generator",
+        "Address": "26 Mill Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.3008244,
+          -33.17765891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Magill Training Centre",
+        "Marker": "Diesel Generator",
+        "Address": "17 Lewis Walk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.6879436,
+          -34.90673372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Mount Gambier Prison",
+        "Marker": "Diesel Generator",
+        "Address": "1 Kieselbach Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6847274,
+          -37.85840291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Netley Commercial Park",
+        "Marker": "Diesel Generator",
+        "Address": "285 Richmond Road",
+        "Capacity (MV)": 0.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5523854,
+          -34.94318948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Netley Police Complex",
+        "Marker": "Diesel Generator",
+        "Address": "242 Marion Road",
+        "Capacity (MV)": 0.09
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5531355,
+          -34.94631172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Peterborough Hospital",
+        "Marker": "Diesel Generator",
+        "Address": "36 Hurlstone Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.8308934,
+          -32.98074236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Plant Research Centre",
+        "Marker": "Diesel Generator",
+        "Address": "100 Hartley Grove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.6381908,
+          -34.96944485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Pregnancy Advisory Centre",
+        "Marker": "Diesel Generator",
+        "Address": "21a Belmore Terrace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5430216,
+          -34.87983076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Queen Elizabeth Hospital",
+        "Marker": "Diesel Generator",
+        "Address": "50 Woodville Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5332299,
+          -34.8833781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Repatriation Hospital",
+        "Marker": "Diesel Generator",
+        "Address": "216 Daws Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.5892659,
+          -34.99160875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Royal Adelaide Hospital",
+        "Marker": "Diesel Generator",
+        "Address": "283 North Terrace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.6085741,
+          -34.92070605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "South Australian Museum",
+        "Marker": "Diesel Generator",
+        "Address": "561 North Terrace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.6032241,
+          -34.92055599
+        ]
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Tatiara Meat Company",
+        "Marker": "Diesel Generator",
+        "Address": "490 Meatworks Road",
+        "Capacity (MV)": 0.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7368386,
+          -36.32734578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Woodside Police Station",
+        "Marker": "Diesel Generator",
+        "Address": "7 Nairne Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.8761908,
+          -34.95299503
+        ]
+      },
+      "id": 35
+    }
+  ]
+}
